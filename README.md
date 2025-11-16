@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @OMDE-USER
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on.. wait a minute, my friends don't know abot Github :(
-- 📫 How to reach me: what? github, what are you tring to say? huh?
-- 😄 Pronouns: idk bro
+- 🌱 I’m currently learning... i don't know
+- 💞️ I’m looking to collaborate on.. wait a minute, my friends don't know about Github :(
+- 📫 How to reach me: No, i'm not gonna reveal my location.
+- 😄 Pronouns: EnGamer
 - ⚡ Fun fact: you have a Brain
 
 <!---
